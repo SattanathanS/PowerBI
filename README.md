@@ -1,4 +1,4 @@
-🚀 Project Overview
+🚀 **Project Overview**
 
 This project analyzes Payment Protection Insurance (PPI) customer data and presents key business insights through an interactive Power BI Dashboard.
 
@@ -7,7 +7,7 @@ The dashboard helps stakeholders understand customer demographics, PPI adoption 
 Dashboard Preview
 <img width="1275" height="665" alt="image" src="https://github.com/user-attachments/assets/d4a13c9c-d4d0-4d49-86e7-51c1b9f0790d" />
 
-🎯 Business Objective
+🎯 **Business Objective**
 
 The primary goals of this analysis are:
 
@@ -19,7 +19,7 @@ Explore relationships between income, age, employment, and credit score categori
 Support targeted marketing and risk assessment strategies.
 
 
-📂 Dataset Information
+📂 **Dataset Information**
 
 The dataset contains customer-level information related to:
 
@@ -34,7 +34,7 @@ Insurance Products	PPI product ownership
 Credit Score	Credit score segmentation
 
 
-🔍 Key Insights
+🔍** Key Insights**
 Customer Adoption
 Approximately 58% of customers have a PPI product.
 PPI ownership exceeds non-PPI ownership, indicating strong product penetration.
@@ -61,29 +61,19 @@ Secured loans account for approximately 20% of the portfolio.
 Credit Score Analysis
 Most customers fall within the 500–1000 credit score range.
 Very few customers are represented in the low credit score category.
-🛠 Tools & Technologies
-Power BI Desktop
-Microsoft Excel
-Power Query
-DAX (Data Analysis Expressions)
-Data Visualization & Analytics
-📊 Dashboard Features
+
+
+📊 **Dashboard Features**
 
 ✅ KPI Cards for executive summary
-
 ✅ Customer segmentation analysis
-
 ✅ Demographic breakdowns
-
 ✅ Loan type distribution
-
 ✅ Credit score analysis
-
 ✅ Interactive filtering and exploration
-
 ✅ Business-focused visual storytelling
 
-💡 Business Value
+💡** Business Value**
 
 This dashboard enables organizations to:
 
