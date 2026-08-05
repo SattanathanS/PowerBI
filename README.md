@@ -40,26 +40,33 @@ Credit Score	Credit score segmentation
 Customer Adoption
 Approximately 58% of customers have a PPI product.
 PPI ownership exceeds non-PPI ownership, indicating strong product penetration.
+
 Marital Status
 Married customers represent the largest customer segment.
 Single customers form the second-largest group.
 Divorced and Widowed categories account for a smaller share of customers.
+
 Residential Status
 Homeowners dominate the customer base.
 Tenants and other residential categories contribute significantly fewer customers.
+
 Age Profile
 Customers aged 35–45 years form the largest segment.
 The majority of customers fall between 25 and 55 years old.
 Customers younger than 25 and older than 65 represent a small proportion.
+
 Income Distribution
 Most customers are concentrated in higher income categories.
 Income levels between 4 and 6 units account for the largest customer group.
+
 Employment Status
 Permanent employees constitute the majority of customers.
 Contract and self-employed groups represent smaller segments.
+
 Loan Analysis
 Nearly 80% of loans are unsecured.
 Secured loans account for approximately 20% of the portfolio.
+
 Credit Score Analysis
 Most customers fall within the 500–1000 credit score range.
 Very few customers are represented in the low credit score category.
