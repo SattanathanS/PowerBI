@@ -93,14 +93,3 @@ Improve PPI cross-selling opportunities.
 Support credit risk monitoring.
 Enhance customer targeting strategies.
 Drive data-informed business decisions.
-
-
-📁 Repository Structure
-Plain Text
-PPI-Insurance-Dashboard/│
-├── Dataset.xlsx
-├── PPI Dashboard.pbix
-├── PPI Dashboard.png
-├── README.md
-└── Documentation/
-└── Project Report.pdf
