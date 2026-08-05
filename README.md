@@ -5,6 +5,7 @@ This project analyzes Payment Protection Insurance (PPI) customer data and prese
 The dashboard helps stakeholders understand customer demographics, PPI adoption patterns, income distribution, loan characteristics, credit profiles, and customer segmentation. The objective is to identify trends that influence PPI uptake and support data-driven decision making.
 
 Dashboard Preview
+
 <img width="1275" height="665" alt="image" src="https://github.com/user-attachments/assets/d4a13c9c-d4d0-4d49-86e7-51c1b9f0790d" />
 
 🎯 **Business Objective**
@@ -74,7 +75,7 @@ Very few customers are represented in the low credit score category.
 ✅ Interactive filtering and exploration
 ✅ Business-focused visual storytelling
 
-💡** Business Value**
+💡**Business Value**
 
 This dashboard enables organizations to:
 
