@@ -34,7 +34,8 @@ Insurance Products	PPI product ownership
 Credit Score	Credit score segmentation
 
 
-🔍** Key Insights**
+🔍**Key Insights**
+
 Customer Adoption
 Approximately 58% of customers have a PPI product.
 PPI ownership exceeds non-PPI ownership, indicating strong product penetration.
